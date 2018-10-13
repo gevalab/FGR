@@ -13,7 +13,7 @@ These programs are based on the following papers:
 2. Xiang Sun and Eitan Geva, [Nonequilibrium Fermi’s Golden Rule Charge Transfer Rates via the Linearized Semiclassical Method](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00236), J. Chem. Theory Comput. **12**, 2926-2941 (2016).
 3.  Xiang Sun and Eitan Geva, [Non-Condon Equilibrium Fermi’s Golden Rule Electronic Transition Rate Constants via the Linearized Semiclassical Method](https://aip.scitation.org/doi/10.1063/1.4954509), J. Chem. Phys. **144**, 244105 (2016).
 4. Xiang Sun and Eitan Geva, [Non-Condon Nonequilibrium Fermi’s Golden Rule Rates from the Linearized Semiclassical Method](https://aip.scitation.org/doi/10.1063/1.4960337),  J. Chem. Phys. **145**, 064109 (2016). 
-5. Xiang Sun, Pengzhi Zhang, Yifan Lai, Kyle L. Williams, Margaret S. Cheung, Barry D. Dunitz, Eitan Geva, [Computational Study of Charge Transfer Dynamics in the Carotenoid-Porphyrin-C60 Molecular Triad Dissolved in Tetrahydrofuran and Its Spectroscopic Signature](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02697), J. Phys. Chem. C **122**, 11288-11299 (2018).
+5. Xiang Sun, Pengzhi Zhang, Yifan Lai, Kyle L. Williams, Margaret S. Cheung, Barry D. Dunitz, Eitan Geva, [Computational Study of Charge Transfer Dynamics in the Carotenoid-Porphyrin-$C_{60}$ Molecular Triad Dissolved in Tetrahydrofuran and Its Spectroscopic Signature](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b02697), J. Phys. Chem. C **122**, 11288-11299 (2018).
 
 
 
